@@ -1,0 +1,48 @@
+ITA Italia: tenute 22, scartate 7: (12.6,35.5) 16km², (15.2,38.8) 12km², (13.2,38.7) 8km², (12.9,35.9) 5km², (10.3,42.3) 4km², (14.4,38.5) 2km²
+FRA Francia: tenute 10, scartate 11: (-53.0,3.9) 83552km², (55.5,-21.1) 2590km², (-61.0,14.6) 1101km², (-61.7,16.2) 845km², (-61.4,16.4) 635km², (45.1,-12.8) 383km²
+ESP Spagna: tenute 8, scartate 15: (-16.6,28.3) 2007km², (-14.0,28.4) 1641km², (-15.6,28.0) 1561km², (-13.6,29.0) 830km², (-17.8,28.6) 709km², (-17.2,28.1) 374km²
+PRT Portogallo: tenute 3, scartate 14: (-25.5,37.8) 822km², (-17.0,32.8) 753km², (-28.4,38.5) 469km², (-27.2,38.7) 454km², (-28.1,38.7) 258km², (-31.2,39.4) 189km²
+GBR Regno Unito: tenute 52, scartate 5: (-1.6,59.5) 10km², (-8.6,57.8) 6km², (-6.3,49.9) 3km², (-6.3,50.0) 3km², (-13.7,57.6) 0km²
+ISL Islanda: tenute 4, scartate 1: (-18.0,66.5) 4km²
+NOR Norvegia: tenute 91, scartate 29: (17.3,78.3) 38340km², (22.7,79.9) 14417km², (22.8,77.7) 5368km², (21.4,78.4) 1447km², (22.5,70.7) 729km², (11.1,78.6) 639km²
+GRC Grecia: tenute 72, scartate 2: (23.5,36.9) 2km², (23.9,36.8) 1km²
+DEU Germania: tenute 20, scartate 2: (7.9,54.2) 1km², (7.9,54.2) 1km²
+RUS Russia: tenute 207, scartate 4: (76.6,79.6) 294km², (153.0,47.7) 71km², (153.2,48.1) 67km², (156.6,77.1) 15km²
+NLD Paesi Bassi: tenute 9, scartate 3: (-68.2,12.2) 270km², (-63.0,17.5) 19km², (-63.2,17.6) 7km²
+JPN Giappone: tenute 62, scartate 47: (127.9,26.5) 1299km², (129.4,28.3) 681km², (123.8,24.3) 272km², (128.9,27.8) 229km², (124.2,24.5) 211km², (125.3,24.8) 156km²
+IND India: tenute 24, scartate 11: (73.1,8.3) 10km², (72.2,10.8) 8km², (72.8,11.2) 8km², (73.6,10.1) 3km², (72.6,10.6) 1km², (73.0,11.5) 1km²
+KOR Corea del Sud: tenute 51, scartate 1: (125.7,37.7) 5km²
+VNM Vietnam: tenute 24, scartate 1: (108.9,10.5) 17km²
+THA Thailandia: tenute 19, scartate 1: (97.9,9.4) 18km²
+IDN Indonesia: tenute 254, scartate 10: (105.8,3.0) 192km², (106.2,3.2) 95km², (106.3,3.3) 63km², (106.2,2.8) 26km², (134.3,0.7) 14km², (130.0,-6.3) 5km²
+PHL Filippine: tenute 92, scartate 5: (121.2,9.6) 9km², (120.0,8.9) 0km², (120.0,8.9) 0km², (120.0,8.9) 0km², (120.0,8.9) 0km²
+IRN Iran: tenute 10, scartate 1: (54.5,25.9) 11km²
+TWN Taiwan: tenute 7, scartate 1: (118.4,24.5) 154km²
+YEM Yemen: tenute 5, scartate 4: (53.9,12.5) 3635km², (52.2,12.2) 146km², (53.0,12.2) 41km², (53.3,12.1) 8km²
+MMR Myanmar: tenute 37, scartate 2: (93.4,14.1) 16km², (93.7,14.9) 12km²
+MDV Maldive: tenute 7, scartate 169: (73.2,6.8) 7km², (73.1,-0.6) 6km², (73.4,2.4) 4km², (73.2,6.9) 3km², (73.2,-0.6) 2km², (73.6,2.1) 2km²
+ZAF Sudafrica: tenute 1, scartate 2: (37.7,-46.9) 275km², (37.9,-46.6) 44km²
+GNQ Guinea Equatoriale: tenute 2, scartate 1: (5.6,-1.5) 14km²
+MUS Mauritius: tenute 1, scartate 2: (63.4,-19.7) 100km², (56.5,-10.4) 14km²
+SYC Seychelles: tenute 17, scartate 9: (46.5,-9.4) 123km², (46.3,-9.3) 34km², (46.5,-9.7) 8km², (55.9,-4.6) 2km², (55.7,-3.8) 2km², (47.5,-9.7) 1km²
+USA Stati Uniti: tenute 318, scartate 26: (-155.5,19.6) 10555km², (-156.3,20.8) 1929km², (-158.0,21.5) 1572km², (-159.6,22.1) 1467km², (-157.0,21.1) 691km², (-156.9,20.8) 365km²
+MEX Messico: tenute 46, scartate 5: (-106.6,21.6) 145km², (-89.6,22.5) 134km², (-114.8,18.3) 22km², (-106.7,21.8) 12km², (-115.8,25.0) 0km²
+CRI Costa Rica: tenute 3, scartate 1: (-87.1,5.5) 16km²
+HND Honduras: tenute 6, scartate 1: (-83.9,17.4) 2km²
+BHS Bahamas: tenute 39, scartate 5: (-77.8,25.4) 7km², (-76.8,24.5) 7km², (-75.1,23.8) 4km², (-79.6,23.6) 1km², (-79.5,23.5) 1km²
+BRA Brasile: tenute 39, scartate 4: (-29.4,0.9) 45km², (-32.4,-3.9) 20km², (-29.3,-20.6) 6km², (-28.9,-20.5) 0km²
+CHL Cile: tenute 157, scartate 6: (-109.3,-27.1) 175km², (-78.9,-33.6) 92km², (-80.7,-33.7) 51km², (-79.9,-26.4) 2km², (-80.1,-26.3) 1km², (-105.5,-26.5) 0km²
+COL Colombia: tenute 7, scartate 6: (-81.7,12.6) 20km², (-81.4,13.3) 18km², (-81.6,4.0) 8km², (-78.6,15.9) 0km², (-80.0,15.8) 0km², (-80.1,13.6) 0km²
+VEN Venezuela: tenute 20, scartate 9: (-66.8,11.9) 6km², (-66.8,11.8) 6km², (-67.7,12.0) 2km², (-63.6,15.7) 1km², (-67.7,12.0) 0km², (-67.7,12.1) 0km²
+ECU Ecuador: tenute 4, scartate 12: (-91.1,-0.4) 4646km², (-90.4,-0.6) 961km², (-91.5,-0.4) 597km², (-89.4,-0.8) 564km², (-90.7,-0.2) 561km², (-90.4,-1.3) 161km²
+AUS Australia: tenute 90, scartate 4: (158.9,-54.6) 119km², (142.7,-9.4) 95km², (142.2,-9.3) 58km², (159.1,-31.6) 14km²
+NZL Nuova Zelanda: tenute 15, scartate 11: (-176.5,-43.9) 745km², (166.1,-50.7) 437km², (169.2,-52.5) 134km², (178.8,-49.7) 79km², (166.1,-50.9) 78km², (-176.2,-44.3) 71km²
+PNG Papua Nuova Guinea: tenute 49, scartate 9: (154.2,-4.5) 32km², (144.1,-3.2) 31km², (153.3,-3.4) 25km², (153.2,-3.5) 23km², (154.1,-4.4) 10km², (142.8,-1.7) 10km²
+FJI Figi: tenute 37, scartate 4: (177.1,-12.5) 40km², (174.6,-21.7) 15km², (-178.7,-20.7) 3km², (-178.2,-19.8) 2km²
+SLB Isole Salomone: tenute 38, scartate 10: (165.9,-10.8) 525km², (166.9,-11.7) 220km², (166.5,-11.3) 71km², (166.2,-10.3) 22km², (167.0,-11.6) 17km², (165.7,-10.4) 10km²
+TON Tonga: tenute 8, scartate 2: (-175.7,-15.6) 41km², (-176.2,-22.3) 2km²
+KIR Kiribati: tenute 1, scartate 34: (-159.3,3.9) 93km², (-155.0,-4.1) 31km², (175.1,-1.5) 28km², (174.8,-1.2) 25km², (173.3,2.0) 22km², (-151.8,-11.4) 21km²
+MHL Isole Marshall: tenute 7, scartate 15: (166.9,11.2) 11km², (172.0,6.1) 6km², (171.7,6.1) 3km², (171.9,7.1) 3km², (169.0,7.6) 2km², (168.1,5.6) 2km²
+FSM Micronesia: tenute 2, scartate 18: (163.0,5.3) 114km², (138.1,9.5) 93km², (151.6,7.4) 31km², (151.9,7.4) 19km², (153.7,5.3) 7km², (149.7,8.6) 7km²
+PLW Palau: tenute 6, scartate 3: (131.2,3.0) 19km², (131.8,3.0) 9km², (132.2,5.3) 1km²
+TUV Tuvalu: tenute 3, scartate 6: (176.1,-5.7) 2km², (177.3,-6.1) 2km², (179.9,-9.4) 1km², (179.9,-9.4) 1km², (176.3,-6.3) 1km², (177.2,-7.2) 0km²

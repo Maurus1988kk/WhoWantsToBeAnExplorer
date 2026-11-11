@@ -1,0 +1,27 @@
+# Ambienti virtuali / virtual environments
+.venv/
+.venv-tools/
+venv/
+
+# Build (PyInstaller)
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Download cache of tools/prepara_dati.py
+tools/_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

@@ -1,0 +1,62 @@
+WhoWantsToBeAnExplorer - fonti e licenze delle risorse incluse
+================================================================
+
+Sagome e mappa del mondo (assets/sagome, assets/vicini, assets/mondo)
+  Derivate da Natural Earth, "Admin 0 - Countries", scala 1:10m, variante
+  "punto di vista italiano" (ne_10m_admin_0_countries_ita).
+  https://www.naturalearthdata.com  -  https://github.com/nvkelso/natural-earth-vector
+  Licenza: pubblico dominio ("All versions of Natural Earth raster + vector map
+  data found on this website are in the public domain").
+
+Bandiere (assets/bandiere)
+  hampusborgos/country-flags, PNG 250 px, commit ba2cf4101bf029d2ada26da2f95121de74581a4d
+  https://github.com/hampusborgos/country-flags
+  Licenza: pubblico dominio (package.json: "license": "PD"; dal README: "The flags
+  are not under copyright protection since flags are in public domain").
+  Fonte originale delle immagini: Wikimedia Commons.
+
+Carattere (assets/font)
+  Montserrat, Copyright 2011 The Montserrat Project Authors
+  https://github.com/JulietaUla/Montserrat
+  Licenza: SIL Open Font License 1.1 (testo completo in assets/font/OFL.txt).
+
+Suoni (assets/suoni)
+  Originali, sintetizzati da tools/genera_suoni.py per questo gioco.
+
+Icona (assets/icona.ico, assets/icona.png)
+  Originale, disegnata da tools/prepara_dati.py.
+
+Libreria grafica
+  pygame-ce (https://pyga.me), licenza GNU LGPL 2.1.
+
+
+WhoWantsToBeAnExplorer - sources and licenses of the bundled resources (English)
+================================================================================
+
+Silhouettes and world map (assets/sagome, assets/vicini, assets/mondo)
+  Derived from Natural Earth, "Admin 0 - Countries", 1:10m scale, "Italian point
+  of view" variant (ne_10m_admin_0_countries_ita).
+  https://www.naturalearthdata.com  -  https://github.com/nvkelso/natural-earth-vector
+  License: public domain ("All versions of Natural Earth raster + vector map
+  data found on this website are in the public domain").
+
+Flags (assets/bandiere)
+  hampusborgos/country-flags, 250 px PNG, commit ba2cf4101bf029d2ada26da2f95121de74581a4d
+  https://github.com/hampusborgos/country-flags
+  License: public domain (package.json: "license": "PD"; from the README: "The flags
+  are not under copyright protection since flags are in public domain").
+  Original source of the images: Wikimedia Commons.
+
+Typeface (assets/font)
+  Montserrat, Copyright 2011 The Montserrat Project Authors
+  https://github.com/JulietaUla/Montserrat
+  License: SIL Open Font License 1.1 (full text in assets/font/OFL.txt).
+
+Sounds (assets/suoni)
+  Original, synthesized by tools/genera_suoni.py for this game.
+
+Icon (assets/icona.ico, assets/icona.png)
+  Original, drawn by tools/prepara_dati.py.
+
+Graphics library
+  pygame-ce (https://pyga.me), GNU LGPL 2.1 license.

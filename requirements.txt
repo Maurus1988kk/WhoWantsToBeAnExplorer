@@ -1,0 +1,2 @@
+# Runtime: the game only needs pygame-ce (plus the Python standard library)
+pygame-ce==2.5.8

@@ -1,0 +1,6 @@
+MCO: 'Principato di Monaco' -> 'Monaco'
+MMR: 'Birmania' -> 'Myanmar'
+SWZ: 'eSwatini' -> 'Eswatini'
+USA: 'Stati Uniti d'America' -> 'Stati Uniti'
+LCA: 'Saint Lucia' -> 'Santa Lucia'
+FSM: 'Stati Federati di Micronesia' -> 'Micronesia'

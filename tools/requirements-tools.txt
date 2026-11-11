@@ -1,0 +1,4 @@
+# Solo per rigenerare i dati (tools/prepara_dati.py); NON servono al gioco né all'exe
+shapely>=2.0
+pillow>=10.0
+numpy>=1.24

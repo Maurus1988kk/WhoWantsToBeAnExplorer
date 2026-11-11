@@ -1,0 +1,117 @@
+{
+  "_nota": "Eccezioni manuali alla regola automatica che sceglie le parti di ogni stato. Riquadri in gradi [lon_min, lat_min, lon_max, lat_max]. Dopo una modifica rilanciare tools/prepara_dati.py.",
+  "parametri": {
+    "alfa": 0.4,
+    "beta": 1.2,
+    "distanza_minima_km": 200.0,
+    "puntini_frazione_dimensione": 0.004,
+    "puntini_frazione_distanza": 0.03
+  },
+  "stati": {
+    "JPN": {
+      "rimuovi": [
+        [
+          122.0,
+          23.0,
+          132.0,
+          29.3
+        ]
+      ],
+      "nota": "Tolte Ryukyu/Okinawa: restano Hokkaido, Honshu, Shikoku, Kyushu e isole vicine"
+    },
+    "ESP": {
+      "rimuovi": [
+        [
+          -6.0,
+          34.5,
+          -1.5,
+          36.0
+        ]
+      ],
+      "nota": "Tolte Ceuta, Melilla e le plazas de soberanía sulla costa africana"
+    },
+    "NOR": {
+      "rimuovi": [
+        [
+          -12.0,
+          70.5,
+          40.0,
+          82.0
+        ],
+        [
+          2.0,
+          -56.0,
+          5.0,
+          -53.0
+        ]
+      ],
+      "nota": "Tolte Svalbard, Jan Mayen, Bjørnøya e Bouvet"
+    },
+    "IND": {
+      "mantieni": [
+        [
+          92.0,
+          6.0,
+          94.5,
+          14.2
+        ]
+      ],
+      "nota": "Tenute Andamane e Nicobare (sono dentro il riquadro dell'India)"
+    },
+    "GNQ": {
+      "mantieni": [
+        [
+          8.3,
+          3.1,
+          9.1,
+          3.9
+        ]
+      ],
+      "nota": "Tenuta l'isola di Bioko (con la capitale Malabo)"
+    },
+    "STP": {
+      "mantieni": [
+        [
+          7.2,
+          1.4,
+          7.6,
+          1.8
+        ]
+      ],
+      "nota": "Tenuta l'isola di Príncipe"
+    },
+    "AUS": {
+      "rimuovi": [
+        [
+          158.0,
+          -32.0,
+          160.0,
+          -31.0
+        ]
+      ],
+      "nota": "Tolta Lord Howe"
+    },
+    "ECU": {
+      "rimuovi": [
+        [
+          -93.0,
+          -2.0,
+          -88.0,
+          2.0
+        ]
+      ],
+      "nota": "Tolte le Galápagos"
+    },
+    "TWN": {
+      "rimuovi": [
+        [
+          117.5,
+          24.2,
+          120.6,
+          26.6
+        ]
+      ],
+      "nota": "Tolte Kinmen e Matsu (a ridosso della costa cinese); restano Taiwan e Penghu"
+    }
+  }
+}

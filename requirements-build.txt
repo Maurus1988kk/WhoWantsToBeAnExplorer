@@ -1,0 +1,3 @@
+# Windows executable build (build.bat and GitHub Actions)
+-r requirements.txt
+pyinstaller==6.22.3
